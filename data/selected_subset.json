@@ -1,0 +1,452 @@
+[
+  {
+    "filename": "melanoma_9819.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.5018677115440369,
+    "x": 31.927972013916165,
+    "y": 0.579567170210953,
+    "z": 1.7584539120109721
+  },
+  {
+    "filename": "melanoma_9634.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.6705191135406494,
+    "x": 31.28673700453945,
+    "y": 1.091298205441279,
+    "z": 1.2395950933979507
+  },
+  {
+    "filename": "melanoma_9870.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.7613853216171265,
+    "x": 36.13848992763658,
+    "y": 2.149414337522704,
+    "z": 4.104040029308444
+  },
+  {
+    "filename": "melanoma_9635.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.8301501870155334,
+    "x": 31.187047718030726,
+    "y": 6.839027307285024,
+    "z": -1.657609015485896
+  },
+  {
+    "filename": "melanoma_9872.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.8928728103637695,
+    "x": 27.477903440407676,
+    "y": 11.876332226595816,
+    "z": 3.0499445545234467
+  },
+  {
+    "filename": "melanoma_9925.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.9317054152488708,
+    "x": 34.48892194529045,
+    "y": 4.951445909003386,
+    "z": -0.886422510207953
+  },
+  {
+    "filename": "melanoma_9734.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.9622666835784912,
+    "x": 31.74809930399323,
+    "y": 10.138976595339253,
+    "z": -0.7509133927717543
+  },
+  {
+    "filename": "melanoma_9893.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.9769500494003296,
+    "x": 35.83106880987398,
+    "y": 6.559034726554745,
+    "z": 2.299724091566427
+  },
+  {
+    "filename": "melanoma_9918.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.9863420128822327,
+    "x": 31.970889190158836,
+    "y": 12.44172610100076,
+    "z": -2.092843828267509
+  },
+  {
+    "filename": "melanoma_9681.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.9925097227096558,
+    "x": 32.11944110069679,
+    "y": 12.834687192076982,
+    "z": 0.2049550850317576
+  },
+  {
+    "filename": "melanoma_10022.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.9958778619766235,
+    "x": 31.410367475536944,
+    "y": 13.57376365701293,
+    "z": 0.68778291767071
+  },
+  {
+    "filename": "melanoma_9852.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.9973107576370239,
+    "x": 32.01414784271755,
+    "y": 14.27862831223379,
+    "z": -1.7363827634613296
+  },
+  {
+    "filename": "melanoma_10094.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.998354971408844,
+    "x": 17.52815750662383,
+    "y": 22.1731756674213,
+    "z": -4.005728275509574
+  },
+  {
+    "filename": "melanoma_10104.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.9991725087165833,
+    "x": 31.17729154641007,
+    "y": 17.333656927968217,
+    "z": -2.5405768448076653
+  },
+  {
+    "filename": "melanoma_9644.jpg",
+    "true_label": "benign",
+    "predicted_class": "benign",
+    "confidence": 0.9995723366737366,
+    "x": 35.40426369532685,
+    "y": 13.940728641659994,
+    "z": -0.17201520730096398
+  },
+  {
+    "filename": "melanoma_10593.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.5050678253173828,
+    "x": 28.2787314295588,
+    "y": 3.012118192368262,
+    "z": -0.0030569728839411965
+  },
+  {
+    "filename": "melanoma_10494.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.6986070871353149,
+    "x": 26.225048985936166,
+    "y": -6.942069727763952,
+    "z": 5.021166218826209
+  },
+  {
+    "filename": "melanoma_10395.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.83460932970047,
+    "x": 24.326992027062847,
+    "y": -4.005901791522468,
+    "z": 1.877869847253683
+  },
+  {
+    "filename": "melanoma_10154.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.9431542158126831,
+    "x": 30.31764870192959,
+    "y": -1.1158439652739658,
+    "z": 1.9457515445366573
+  },
+  {
+    "filename": "melanoma_10338.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.9854640364646912,
+    "x": -7.747208439096661,
+    "y": -9.042593882251902,
+    "z": 3.9566904306606063
+  },
+  {
+    "filename": "melanoma_10111.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.9970998764038086,
+    "x": -7.629414848277975,
+    "y": -20.2154709407526,
+    "z": 13.000389309318285
+  },
+  {
+    "filename": "melanoma_10230.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.9992808699607849,
+    "x": 6.137758220004106,
+    "y": -19.75943666576584,
+    "z": 4.770975971349003
+  },
+  {
+    "filename": "melanoma_10418.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.999818742275238,
+    "x": -22.174049197735307,
+    "y": -0.3471961050315201,
+    "z": -20.9418769088633
+  },
+  {
+    "filename": "melanoma_10546.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.9999396800994873,
+    "x": -1.4952992449110232,
+    "y": -6.282634677459556,
+    "z": 8.063728837002769
+  },
+  {
+    "filename": "melanoma_10405.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.9999853372573853,
+    "x": -42.78668029305828,
+    "y": 5.639007973405636,
+    "z": -20.19971026843004
+  },
+  {
+    "filename": "melanoma_10193.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.9999974966049194,
+    "x": -36.019468185629805,
+    "y": -6.078168083529779,
+    "z": -30.761663767112
+  },
+  {
+    "filename": "melanoma_10192.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 0.9999996423721313,
+    "x": -32.174315840742366,
+    "y": 3.750879282145238,
+    "z": -28.902892369884505
+  },
+  {
+    "filename": "melanoma_10266.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 1.0,
+    "x": -72.50551512030664,
+    "y": -26.90905341633582,
+    "z": -44.10134777679371
+  },
+  {
+    "filename": "melanoma_10512.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 1.0,
+    "x": -83.020214674111,
+    "y": -5.458524320349042,
+    "z": -7.501725746872609
+  },
+  {
+    "filename": "melanoma_10465.jpg",
+    "true_label": "malignant",
+    "predicted_class": "malignant",
+    "confidence": 1.0,
+    "x": -51.80953501578011,
+    "y": 3.7531318776733404,
+    "z": -27.450183979007036
+  },
+  {
+    "filename": "melanoma_9667.jpg",
+    "true_label": "benign",
+    "predicted_class": "malignant",
+    "confidence": 0.5049346089363098,
+    "x": 31.83978274278792,
+    "y": -2.160292374624356,
+    "z": 2.5518805894709633
+  },
+  {
+    "filename": "melanoma_9927.jpg",
+    "true_label": "benign",
+    "predicted_class": "malignant",
+    "confidence": 0.522312343120575,
+    "x": 29.421933283740334,
+    "y": 3.8407765544693815,
+    "z": 1.1712588295934279
+  },
+  {
+    "filename": "melanoma_9934.jpg",
+    "true_label": "benign",
+    "predicted_class": "malignant",
+    "confidence": 0.535699188709259,
+    "x": 32.09732271882694,
+    "y": 3.656049465330969,
+    "z": 2.8335912898293145
+  },
+  {
+    "filename": "melanoma_9731.jpg",
+    "true_label": "benign",
+    "predicted_class": "malignant",
+    "confidence": 0.6270646452903748,
+    "x": 29.516184023513937,
+    "y": 0.01775329130437435,
+    "z": 1.1499948413551397
+  },
+  {
+    "filename": "melanoma_9664.jpg",
+    "true_label": "benign",
+    "predicted_class": "malignant",
+    "confidence": 0.6902974843978882,
+    "x": 19.545390892990415,
+    "y": -9.620681383888174,
+    "z": 4.880596873722998
+  },
+  {
+    "filename": "melanoma_10091.jpg",
+    "true_label": "benign",
+    "predicted_class": "malignant",
+    "confidence": 0.7324926853179932,
+    "x": 23.25692849410428,
+    "y": -9.006874682391969,
+    "z": 5.708788886303417
+  },
+  {
+    "filename": "melanoma_9761.jpg",
+    "true_label": "benign",
+    "predicted_class": "malignant",
+    "confidence": 0.7632256746292114,
+    "x": 29.656244389863016,
+    "y": -2.008588700929857,
+    "z": 1.2861158784200744
+  },
+  {
+    "filename": "melanoma_9959.jpg",
+    "true_label": "benign",
+    "predicted_class": "malignant",
+    "confidence": 0.8167725205421448,
+    "x": 27.18779764244643,
+    "y": -4.927750573929938,
+    "z": 2.861140396557254
+  },
+  {
+    "filename": "melanoma_10021.jpg",
+    "true_label": "benign",
+    "predicted_class": "malignant",
+    "confidence": 0.8714801073074341,
+    "x": 5.7311170041898665,
+    "y": 7.660364886542421,
+    "z": 5.441283214777722
+  },
+  {
+    "filename": "melanoma_9891.jpg",
+    "true_label": "benign",
+    "predicted_class": "malignant",
+    "confidence": 0.9580018520355225,
+    "x": 13.549964290333984,
+    "y": 2.5884549530630165,
+    "z": 1.0609185299554607
+  },
+  {
+    "filename": "melanoma_10135.jpg",
+    "true_label": "malignant",
+    "predicted_class": "benign",
+    "confidence": 0.5463613271713257,
+    "x": 25.998375857257578,
+    "y": 0.5497669403234273,
+    "z": -0.5088994348303509
+  },
+  {
+    "filename": "melanoma_10437.jpg",
+    "true_label": "malignant",
+    "predicted_class": "benign",
+    "confidence": 0.5939744114875793,
+    "x": 18.00070796240361,
+    "y": 0.5332229513654503,
+    "z": 3.3414110248761753
+  },
+  {
+    "filename": "melanoma_10598.jpg",
+    "true_label": "malignant",
+    "predicted_class": "benign",
+    "confidence": 0.630023181438446,
+    "x": 31.734921072037153,
+    "y": -0.7695469645865176,
+    "z": 0.49151149518824594
+  },
+  {
+    "filename": "melanoma_10107.jpg",
+    "true_label": "malignant",
+    "predicted_class": "benign",
+    "confidence": 0.6634255051612854,
+    "x": 29.809655141366388,
+    "y": 1.6856974199270416,
+    "z": -0.7877780452609011
+  },
+  {
+    "filename": "melanoma_10568.jpg",
+    "true_label": "malignant",
+    "predicted_class": "benign",
+    "confidence": 0.7253981828689575,
+    "x": 28.988831576858026,
+    "y": 6.47412051105455,
+    "z": 1.2181537841290124
+  },
+  {
+    "filename": "melanoma_10126.jpg",
+    "true_label": "malignant",
+    "predicted_class": "benign",
+    "confidence": 0.7951460480690002,
+    "x": 34.115453840691565,
+    "y": 4.137360377775798,
+    "z": 2.945461805784254
+  },
+  {
+    "filename": "melanoma_10591.jpg",
+    "true_label": "malignant",
+    "predicted_class": "benign",
+    "confidence": 0.8432637453079224,
+    "x": 33.894796653559084,
+    "y": 4.015684219967314,
+    "z": 3.444316436634489
+  },
+  {
+    "filename": "melanoma_10564.jpg",
+    "true_label": "malignant",
+    "predicted_class": "benign",
+    "confidence": 0.8810009360313416,
+    "x": 36.17832118884603,
+    "y": 2.7876585113470878,
+    "z": 3.3929029587987896
+  },
+  {
+    "filename": "melanoma_10152.jpg",
+    "true_label": "malignant",
+    "predicted_class": "benign",
+    "confidence": 0.9340469241142273,
+    "x": 33.02726608791486,
+    "y": 6.724935954495548,
+    "z": 3.3720907809715026
+  },
+  {
+    "filename": "melanoma_10163.jpg",
+    "true_label": "malignant",
+    "predicted_class": "benign",
+    "confidence": 0.9513488411903381,
+    "x": 29.557502564579497,
+    "y": 10.973469182993506,
+    "z": -2.2046095193682667
+  }
+]
