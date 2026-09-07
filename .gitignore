@@ -8,3 +8,16 @@ application.windows32
 application.windows64
 application.macosx
 out
+
+# your usual additions
+.vscode/
+Thumbs.db
+*.swp
+*.swo
+
+# model weights — never belongs in this repo
+*.pth
+*.pt
+
+# scripts
+scripts/
